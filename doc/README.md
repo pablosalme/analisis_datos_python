@@ -4,6 +4,8 @@ This repository contains all the practices carried out during my data analysis a
 
 ## Table of Contents
 
+- [About](#about)
+- [Table of Contents](#table-of-contents)
 - [Block 1: Introduction to Python](#block-1-introduction-to-python)
   - [Session 1: Introduction to Python](#session-1-introduction-to-python)
   - [Session 2: Structures and Control Functions](#session-2-structures-and-control-functions)
@@ -37,6 +39,13 @@ This repository contains all the practices carried out during my data analysis a
   - [Session 26: Statistical Models](#session-26-statistical-models)
   - [Session 27: ML Forecasting](#session-27-ml-forecasting)
   - [Session 28: Time Series Wrap-up](#session-28-time-series-wrap-up)
+- [Usage](#usage)
+- [License](#license)
+- [Authors](#authors)
+
+## About
+
+This repository contains all the practical exercises and projects undertaken during my Data Analysis and Artificial Intelligence course. The repository is organized into blocks, with each block further divided into sessions. Each session includes a Jupyter notebook to facilitate hands-on learning and experimentation.
 
 ## Block 1: Introduction to Python
 
@@ -170,4 +179,4 @@ This project is licensed under the MIT License.
 
 ## Authors
 
-This project is maintained by @pablosalme(https://github.com/pablosalme).
+This project is maintained by [@pablosalme](https://github.com/pablosalme).
