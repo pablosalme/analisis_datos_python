@@ -170,4 +170,4 @@ This project is licensed under the MIT License.
 
 ## Authors
 
-This project is maintained by @pablosalme.
+This project is maintained by @pablosalme(https://github.com/pablosalme).
